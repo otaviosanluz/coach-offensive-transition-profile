@@ -64,4 +64,9 @@ coach-offensive-transition-profile/
 ├── main.py
 └── README.md
 ```
+---
 
+## Author
+
+Otavio Santos  
+Football Data Scientist
