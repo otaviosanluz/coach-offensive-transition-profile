@@ -55,10 +55,13 @@ Outputs are stored as readable artifacts, not raw datasets.
 
 ## Repository Structure
 
+```
 coach-offensive-transition-profile/
 ├── src/
 ├── data/
-│ └── sample/
+│   └── sample/
 ├── outputs/
 ├── main.py
 └── README.md
+```
+
